@@ -1,4 +1,4 @@
-# Generate a template pdf filled with given arguments
+# Generate a PDF from a template filled with given arguments
 
 _text in `<>` is meant to be viewed as a placeholder and has to be replaced by
 the user_
